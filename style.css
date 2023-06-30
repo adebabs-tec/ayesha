@@ -399,10 +399,9 @@ p {
         gap: 4rem;
     }
     .services-img img {
-        width: 350px;
+        width: 400px;
         height: 400px;
         margin: 0 auto;
-        border-radius: 10px;
     }
     .services-content {
         width: 380px;
